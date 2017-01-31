@@ -8,3 +8,4 @@
 4. [The Blockchain Explained to Web Developers - Part 3: The Truth](http://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html)
 5. [Merkle Tree 学习](http://www.cnblogs.com/fengzhiwu/p/5524324.html)
 6. [Managing Data Storage with Blockchain and BigchainDB](https://www.sitepoint.com/managing-data-storage-with-blockchain-and-bigchaindb/)
+7. [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide)
