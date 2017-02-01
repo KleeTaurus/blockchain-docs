@@ -16,11 +16,14 @@
 * [火币](https://www.huobi.com/)
 * [BTCC](https://www.btcc.com/)
 * [云币网](https://yunbi.com/)
+* [Poloniex](https://poloniex.com) Bitcoin/cryptocurrency exchange
 
 # 在线钱包
-* [Blockchain](https://blockchain.info/wallet/) The World's Most Popular Bitcoin Wallet
-* [coinbase](https://www.coinbase.com/) Coinbase is the world’s most popular way to buy and sell bitcoin and ethereum.
+* [Blockchain](https://blockchain.info/wallet/) The world's most popular bitcoin wallet
+* [Coinbase](https://www.coinbase.com/) Coinbase is the world’s most popular way to buy and sell bitcoin and ethereum.
 
 # 数据分析
 * [Bitcoinity.org](http://data.bitcoinity.org/)
 * [Crypto-Currency Market Capitalizations](https://coinmarketcap.com/)
+* [Statoshi](http://statoshi.info/) Realtime Bitcoin Blockchain Statistics
+* [Coin Dance](https://coin.dance/) Community-driven Bitcoin statistics and services
