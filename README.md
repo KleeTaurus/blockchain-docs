@@ -27,3 +27,6 @@
 * [Crypto-Currency Market Capitalizations](https://coinmarketcap.com/)
 * [Statoshi](http://statoshi.info/) Realtime Bitcoin Blockchain Statistics
 * [Coin Dance](https://coin.dance/) Community-driven Bitcoin statistics and services
+
+# 视频课程
+* [Bitcoin and cryptocurrency technologies](http://bitcoinbook.cs.princeton.edu/)
